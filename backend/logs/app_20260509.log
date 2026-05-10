@@ -1,0 +1,25 @@
+2026-05-09 12:40:20 - network_security - INFO - ============================================================
+2026-05-09 12:40:20 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 12:40:20 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 12:40:20 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 12:40:20 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 12:40:20 - network_security - INFO - ============================================================
+2026-05-09 12:40:20 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 12:40:20 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 14:41:01 - network_security - WARNING - [WARN] GEMINI_API_KEY not found in environment variables. Chatbot will not function correctly.
+2026-05-09 14:41:01 - network_security - INFO - ============================================================
+2026-05-09 14:41:01 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 14:41:01 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 14:41:01 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 14:41:01 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 14:41:01 - network_security - INFO - ============================================================
+2026-05-09 14:41:01 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 14:41:01 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 16:12:24 - network_security - INFO - ============================================================
+2026-05-09 16:12:24 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 16:12:24 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 16:12:24 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 16:12:24 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 16:12:24 - network_security - INFO - ============================================================
+2026-05-09 16:12:24 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 16:12:24 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)

@@ -1,0 +1,20 @@
+2026-05-07 19:01:59 - network_security - INFO - ============================================================
+2026-05-07 19:01:59 - network_security - INFO - ============================================================
+2026-05-07 19:06:52 - network_security - INFO - ============================================================
+2026-05-07 19:06:52 - network_security - INFO - ============================================================
+2026-05-07 19:09:39 - network_security - INFO - ============================================================
+2026-05-07 19:09:39 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-07 19:09:39 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-07 19:09:39 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-07 19:09:39 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-07 19:09:39 - network_security - INFO - ============================================================
+2026-05-07 19:09:39 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-07 19:09:39 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-07 19:11:26 - network_security - INFO - ============================================================
+2026-05-07 19:11:26 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-07 19:11:26 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-07 19:11:26 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-07 19:11:26 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-07 19:11:26 - network_security - INFO - ============================================================
+2026-05-07 19:11:26 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-07 19:11:26 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)

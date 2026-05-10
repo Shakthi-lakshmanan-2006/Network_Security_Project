@@ -1,0 +1,168 @@
+2026-05-09 12:39:18 - network_security - INFO - ============================================================
+2026-05-09 12:39:18 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 12:39:18 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 12:39:18 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 12:39:18 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 12:39:18 - network_security - INFO - ============================================================
+2026-05-09 12:39:18 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 12:39:18 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 14:29:02 - network_security - WARNING - [WARN] GEMINI_API_KEY not found in environment variables. Chatbot will not function correctly.
+2026-05-09 14:29:02 - network_security - INFO - ============================================================
+2026-05-09 14:29:02 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 14:29:02 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 14:29:02 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 14:29:02 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 14:29:02 - network_security - INFO - ============================================================
+2026-05-09 14:29:02 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 14:29:02 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 14:30:20 - network_security - WARNING - [WARN] GEMINI_API_KEY not found in environment variables. Chatbot will not function correctly.
+2026-05-09 14:31:17 - network_security - WARNING - [WARN] GEMINI_API_KEY not found in environment variables. Chatbot will not function correctly.
+2026-05-09 14:31:17 - network_security - INFO - ============================================================
+2026-05-09 14:31:17 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 14:31:17 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 14:31:17 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 14:31:17 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 14:31:17 - network_security - INFO - ============================================================
+2026-05-09 14:31:17 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 14:31:17 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 14:33:51 - network_security - INFO - Chatbot request: Hello...
+2026-05-09 14:45:23 - network_security - WARNING - [WARN] GEMINI_API_KEY not found in environment variables. Chatbot will not function correctly.
+2026-05-09 14:45:23 - network_security - INFO - ============================================================
+2026-05-09 14:45:23 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 14:45:23 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 14:45:23 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 14:45:23 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 14:45:23 - network_security - INFO - ============================================================
+2026-05-09 14:45:23 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 14:45:23 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 14:45:54 - network_security - INFO - Chatbot request: Hello...
+2026-05-09 14:46:16 - network_security - INFO - Chatbot request: Hello...
+2026-05-09 14:46:34 - network_security - WARNING - [WARN] GEMINI_API_KEY not found in environment variables. Chatbot will not function correctly.
+2026-05-09 14:46:34 - network_security - INFO - ============================================================
+2026-05-09 14:46:34 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 14:46:34 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 14:46:34 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 14:46:34 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 14:46:34 - network_security - INFO - ============================================================
+2026-05-09 14:46:34 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 14:46:34 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 14:47:45 - network_security - INFO - Chatbot request: Hello...
+2026-05-09 14:47:52 - network_security - INFO - Chatbot request: What is Gemini?...
+2026-05-09 14:48:58 - network_security - INFO - ============================================================
+2026-05-09 14:48:58 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 14:48:58 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 14:48:58 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 14:48:58 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 14:48:58 - network_security - INFO - ============================================================
+2026-05-09 14:48:58 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 14:48:58 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 14:49:09 - network_security - INFO - Chatbot request: What is phishing?...
+2026-05-09 14:49:09 - network_security - ERROR - Error in GeminiService: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-05-09 14:49:49 - network_security - INFO - ============================================================
+2026-05-09 14:49:49 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 14:49:49 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 14:49:49 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 14:49:49 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 14:49:49 - network_security - INFO - ============================================================
+2026-05-09 14:49:49 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 14:49:49 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 14:49:59 - network_security - INFO - Chatbot request: What is phishing?...
+2026-05-09 14:49:59 - network_security - ERROR - Error in GeminiService: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 59.909479253s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2026-05-09 14:50:21 - network_security - INFO - ============================================================
+2026-05-09 14:50:21 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 14:50:21 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 14:50:21 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 14:50:21 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 14:50:21 - network_security - INFO - ============================================================
+2026-05-09 14:50:21 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 14:50:21 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 14:50:29 - network_security - INFO - Chatbot request: What is phishing?...
+2026-05-09 14:51:34 - network_security - INFO - Chatbot request: What is phishing?...
+2026-05-09 14:51:53 - network_security - INFO - Chatbot request: How can I spot a fake URL?...
+2026-05-09 14:53:33 - network_security - INFO - Chatbot request: can u say about the threats...
+2026-05-09 14:53:53 - network_security - INFO - Chatbot request: Check backend status...
+2026-05-09 14:54:08 - network_security - INFO - Chatbot request: What is phishing?...
+2026-05-09 14:54:31 - network_security - INFO - Chatbot request: hi...
+2026-05-09 14:54:56 - network_security - INFO - Chatbot request: can u say about the different kidns of threats...
+2026-05-09 14:55:25 - network_security - INFO - Chatbot request: what are different types of attcks in our real wor...
+2026-05-09 15:01:59 - network_security - INFO - ============================================================
+2026-05-09 15:01:59 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 15:01:59 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 15:01:59 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 15:01:59 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 15:01:59 - network_security - INFO - ============================================================
+2026-05-09 15:01:59 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 15:01:59 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 15:03:09 - network_security - INFO - Chatbot request: Identify yourself... (0 files)
+2026-05-09 15:03:10 - network_security - ERROR - Error in GeminiService: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-05-09 15:03:52 - network_security - INFO - Chatbot request: Analyze network logs... (0 files)
+2026-05-09 15:03:53 - network_security - ERROR - Error in GeminiService: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-05-09 15:04:48 - network_security - INFO - ============================================================
+2026-05-09 15:04:48 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 15:04:48 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 15:04:48 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 15:04:48 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 15:04:48 - network_security - INFO - ============================================================
+2026-05-09 15:04:48 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 15:04:48 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 15:05:27 - network_security - INFO - Chatbot request: hiii... (0 files)
+2026-05-09 15:06:22 - network_security - INFO - Chatbot request: i need to know about the different types of threat... (0 files)
+2026-05-09 15:13:41 - network_security - INFO - ============================================================
+2026-05-09 15:13:41 - network_security - INFO - [INFO] Starting Network Security System
+2026-05-09 15:13:41 - network_security - INFO - [INFO] Database: MySQL (network_security_db)
+2026-05-09 15:13:41 - network_security - INFO - [INFO] Debug Mode: True
+2026-05-09 15:13:41 - network_security - INFO - [INFO] Server: http://0.0.0.0:5000
+2026-05-09 15:13:41 - network_security - INFO - ============================================================
+2026-05-09 15:13:41 - network_security - INFO - [INFO] MySQL connection verified.
+2026-05-09 15:13:41 - network_security - INFO - [WARN] Real-time monitoring disabled in config (.env)
+2026-05-09 15:14:54 - network_security - INFO - Chatbot request: Explain common threats... (0 files)
+2026-05-09 15:17:52 - network_security - INFO - Chatbot request: Hllo... (0 files)
+2026-05-09 16:13:42 - network_security - INFO - Chatbot request: hllo... (0 files)
+2026-05-09 16:14:19 - network_security - INFO - Chatbot request: what are the threats available in the world... (0 files)

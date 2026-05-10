@@ -1,0 +1,166 @@
+2026-05-08 19:44:49 - auth - ERROR - Login error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': '123', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 19:45:39 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 19:45:47 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'Shakthi', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 19:51:05 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'Shakthi', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 19:51:06 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'Shakthi', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 19:51:06 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'Shakthi', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 19:51:07 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'Shakthi', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 19:51:07 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'Shakthi', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 19:56:34 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 19:56:34 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 19:56:49 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:07:50 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:07:50 - auth - ERROR - Login error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:07:54 - auth - ERROR - Login error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:07:56 - auth - ERROR - Login error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'admin', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:08:00 - auth - ERROR - Login error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'admin', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:09:53 - auth - ERROR - Login error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:33:50 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:38:08 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:38:09 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:38:10 - auth - ERROR - Registration error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:38:14 - auth - ERROR - Login error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 20:38:17 - auth - ERROR - Login error: (mysql.connector.errors.ProgrammingError) 1054 (42S22): Unknown column 'users.id' in 'field list'
+[SQL: SELECT users.id AS users_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.`role` AS users_role, users.created_at AS users_created_at, users.last_login AS users_last_login, users.is_active AS users_is_active, users.failed_login_attempts AS users_failed_login_attempts, users.locked_until AS users_locked_until 
+FROM users 
+WHERE users.username = %(username_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'username_1': 'abs', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-05-08 21:29:42 - auth - INFO - User registered: abs (user)
+2026-05-08 21:29:47 - auth - INFO - Successful login: abs
+2026-05-08 21:33:35 - auth - INFO - User registered: sai (user)
+2026-05-08 21:33:43 - auth - INFO - Successful login: sai
+2026-05-08 22:45:00 - auth - INFO - Successful login: sai
